@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+#root {
+  @apply min-h-screen w-full bg-[#f9f9f9];
+}
